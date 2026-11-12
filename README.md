@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/tests-pytest-success)](tests/)
 [![Safety](https://img.shields.io/badge/control%20access-read--only-brightgreen)](docs/safety.md)
-[![License](https://img.shields.io/badge/license-MIT-black)](LICENSE)
 
 > **Portfolio-safe public implementation.** This repository uses synthetic telemetry and generic adapters. It intentionally contains no production endpoints, credentials, machine names, internal network details, proprietary tag maps, or organization-specific infrastructure.
 
