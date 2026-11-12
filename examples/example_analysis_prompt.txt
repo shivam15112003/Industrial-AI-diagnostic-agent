@@ -1,0 +1,1 @@
+Analyze a completed sample cycle using read-only telemetry. Validate coverage and timestamps first. Calculate counter energy and independently integrate power. Report disagreements rather than averaging them. Do not invent missing quality or engineering metadata.

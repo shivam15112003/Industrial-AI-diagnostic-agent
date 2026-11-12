@@ -1,0 +1,18 @@
+{
+  "sequence": {
+    "state": "DEMO.Sequence.State"
+  },
+  "electrical": {
+    "heater": {
+      "counter": "DEMO.Heater.EnergyCounter",
+      "power": "DEMO.Heater.Power",
+      "power_unit": "W"
+    }
+  },
+  "water": {
+    "tank_1": {
+      "level": "DEMO.Tank1.Level",
+      "temperature": "DEMO.Tank1.Temperature"
+    }
+  }
+}
